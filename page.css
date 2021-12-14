@@ -1,0 +1,17 @@
+ul{
+    display: flex;
+    list-style-type:none;
+    padding: 20px;
+    }
+
+    li{
+    padding: 20px;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: cadetblue;
+    cursor: pointer;
+    }
+
+    td,tr{
+        padding: 10px;
+    }
